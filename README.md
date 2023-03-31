@@ -50,7 +50,7 @@ KingLouie
 
 **Results**
 After training for 300 Epochs, results look awesome!
-![image](https://github.com/HarishSingh1981/YoloV3_Custom/output/baloo_donkarnage.jpg)
+![image](output/baloo_donkarnage.jpg)
 ![image](https://github.com/HarishSingh1981/YoloV3_Custom/output/kingsLouie.jpg)
 ![image](https://github.com/HarishSingh1981/YoloV3_Custom/output/rebecca_04.jpg)
 ![image](https://github.com/HarishSingh1981/YoloV3_Custom/output/sherkhan_04.jpg)
